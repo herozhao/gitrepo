@@ -10,3 +10,4 @@ test 2 remote
 mydev
 master
 mydev1
+mydev2
