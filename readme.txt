@@ -8,3 +8,4 @@ this need remove line
 remote
 test 2 remote
 mydev
+master
